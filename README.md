@@ -4,7 +4,7 @@ A personal resume site deployed entirely on AWS using modern cloud architecture.
 
 ## 🧠 Overview
 
-This project implements the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) to showcase real-world cloud engineering skills. It is a static website with a dynamic view counter built using serverless components.
+This project implements the [Cloud Resume Challenge](https://d30w5pew8tzjk5.cloudfront.net/) to showcase real-world cloud engineering skills. It is a static website with a dynamic view counter built using serverless components.
 
 ---
 
